@@ -1,18 +1,4 @@
-<img width=100% title="ANONYMOUS izuku6-pixel" alt=\\"/>
 
-<table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src="\\"/>
-     <img width="150" align="center" src="\\"/>
-      <br>
-      <img width="280" align="center" src="\\"/>
-    <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
-   </td>  
- </tr>  
-</table>
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
