@@ -15,34 +15,6 @@
  </tr>  
 </table>
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
-
-```go
-package main
-
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
-}
-
-func main() {
-  var me = new(Person)
-  
-  me.name     = "izuku6-pixel 1N"
-  me.username = "izuku6-pixel-IN"
-  me.age      = "20"
-  me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
-  
-  fmt.Println(me)
-}
-```
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
 <!--- <p align='center'><a href="https://api.daily.dev/get?r=izuku6-pixel-IN"> -->
 
