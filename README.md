@@ -8,7 +8,7 @@
 ;](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJka215dTZ3dGVxdGxmdnB4YWx5cGlrcTg5N2NmcjFjeWhyOHc1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTiNDdeWWpBHQbK/giphy.gif)"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src=""/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
