@@ -194,11 +194,6 @@ func main() {
 
 - Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-### 📊 GitHub States
-<p align="center">
-<a href="https://github.com/izuku6-pixel-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=izuku6-pixel-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=izuku6-pixel-IN&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
 <a href="https://github.com/izuku6-pixel-IN">
