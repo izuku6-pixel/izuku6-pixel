@@ -181,22 +181,6 @@ func main() {
 </p>
 <p align="center"><img src="https://stardev.io/developers/izuku6-pixel-IN/badge/languages/global.svg" width="100%"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
-
-
-<p align="center">
-<a href="https://github.com/izuku6-pixel-IN"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izuku6-pixel-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=izuku6-pixel-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-</p>
-
-- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-<p align="center">
-<a href="https://github.com/izuku6-pixel-IN">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izuku6-pixel-IN&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=izuku6-pixel-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
-</p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Contribution Snake -->
