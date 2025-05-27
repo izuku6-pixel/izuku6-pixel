@@ -10,7 +10,7 @@
       <br>
       <img width="280" align="center" src="https://i.imgur.com/KOGxl5f.jpeg"/>
     <td>
-      <img alt="gif" src="./assets/images/MY LO.gif">
+      <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
  </tr>  
 </table>
