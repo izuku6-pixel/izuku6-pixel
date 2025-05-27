@@ -45,6 +45,13 @@ func main() {
 ```
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
 <!--- <p align='center'><a href="https://api.daily.dev/get?r=izuku6-pixel-IN"> -->
+
+## :chart_with_upwards_trend: Profile Visitor Count
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@izuku6-pixel?theme=moebooru" alt="Profile Views" />
+</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
 
 > Tools and technologies that I have worked with and I'm interested in
