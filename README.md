@@ -52,6 +52,18 @@ func main() {
   <img src="https://count.getloli.com/get/@izuku6-pixel?theme=moebooru" alt="Profile Views" />
 </p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=izuku6-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=izuku6-pixel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=izuku6-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=izuku6-pixel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
 
 > Tools and technologies that I have worked with and I'm interested in
