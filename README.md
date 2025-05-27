@@ -191,8 +191,6 @@ func main() {
 </p>
 
 - Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
- </a></p>
 <p align="center">
 <a href="https://github.com/izuku6-pixel-IN">
 <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izuku6-pixel-IN&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=izuku6-pixel-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
