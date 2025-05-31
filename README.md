@@ -8,7 +8,7 @@
 ;](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJka215dTZ3dGVxdGxmdnB4YWx5cGlrcTg5N2NmcjFjeWhyOHc1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTiNDdeWWpBHQbK/giphy.gif)"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
       <br>
-      <img width="280" align="center" src="[https://i.imgur.com/KOGxl5f.jpeg](https://images4.alphacoders.com/136/thumb-1920-1361489.png)"/>
+      <img width="280" align="center" src="https://i.imgur.com/IzAYESX.jpeg"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
